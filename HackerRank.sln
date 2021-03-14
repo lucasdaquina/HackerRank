@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-SolveMeFirst", "00-Solve
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-SimpleArraySum", "01-SimpleArraySum", "{5B183225-4170-4247-B978-3FB23FAACBC6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-CompareTheTriplets", "02-CompareTheTriplets", "{86DC181D-3703-49F4-B83F-B5D2567D06B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "Practice\ProblemSolving\00-Basic\00-Easy\02-CompareTheTriplets\CompareTheTriplets\CompareTheTriplets.csproj", "{94CF5F49-983D-4A80-81CB-04A7FB71C427}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{07B16B04-E178-43CB-B12B-B9CAC6320DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07B16B04-E178-43CB-B12B-B9CAC6320DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07B16B04-E178-43CB-B12B-B9CAC6320DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CF5F49-983D-4A80-81CB-04A7FB71C427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CF5F49-983D-4A80-81CB-04A7FB71C427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CF5F49-983D-4A80-81CB-04A7FB71C427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CF5F49-983D-4A80-81CB-04A7FB71C427}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +53,8 @@ Global
 		{07B16B04-E178-43CB-B12B-B9CAC6320DEB} = {5B183225-4170-4247-B978-3FB23FAACBC6}
 		{56591B4C-53EE-45B3-83F2-600619CB3E40} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
 		{5B183225-4170-4247-B978-3FB23FAACBC6} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
+		{86DC181D-3703-49F4-B83F-B5D2567D06B9} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
+		{94CF5F49-983D-4A80-81CB-04A7FB71C427} = {86DC181D-3703-49F4-B83F-B5D2567D06B9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91334656-21F3-4A58-97D0-76C83BCB7BE2}
