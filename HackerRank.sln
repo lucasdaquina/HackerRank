@@ -35,6 +35,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-PlusMinus", "05-PlusMinu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "Practice\ProblemSolving\00-Basic\00-Easy\05-PlusMinus\PlusMinus\PlusMinus.csproj", "{BB8C21A0-260D-45CF-8696-399CE78C0D3E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-StairCase", "06-StairCase", "{707FE840-0D78-46CD-A910-BC285153880D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairCase", "Practice\ProblemSolving\00-Basic\00-Easy\06-StairCase\StarCase\StairCase.csproj", "{2B25E859-BC52-4C7D-AE64-CF00FB519DB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +69,10 @@ Global
 		{BB8C21A0-260D-45CF-8696-399CE78C0D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB8C21A0-260D-45CF-8696-399CE78C0D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB8C21A0-260D-45CF-8696-399CE78C0D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B25E859-BC52-4C7D-AE64-CF00FB519DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B25E859-BC52-4C7D-AE64-CF00FB519DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B25E859-BC52-4C7D-AE64-CF00FB519DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B25E859-BC52-4C7D-AE64-CF00FB519DB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,6 +93,8 @@ Global
 		{25517558-93AB-4178-B5C0-81CC366DCC27} = {5DA21CA1-CB0F-407C-A3D4-79B9E5432BD9}
 		{A594E48A-609E-40C9-9C6F-042B79E6CCF0} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
 		{BB8C21A0-260D-45CF-8696-399CE78C0D3E} = {A594E48A-609E-40C9-9C6F-042B79E6CCF0}
+		{707FE840-0D78-46CD-A910-BC285153880D} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
+		{2B25E859-BC52-4C7D-AE64-CF00FB519DB7} = {707FE840-0D78-46CD-A910-BC285153880D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91334656-21F3-4A58-97D0-76C83BCB7BE2}
