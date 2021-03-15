@@ -55,6 +55,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10-GradingStudents", "10-Gr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "Practice\ProblemSolving\00-Basic\00-Easy\10-GradingStudents\GradingStudents\GradingStudents.csproj", "{5AE168A3-A395-4212-B779-2A1A36A4B8D1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11-AppleAndOrange", "11-AppleAndOrange", "{B89B1EE7-20BA-48A9-9ED5-9E1F9CA97634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleAndOrange", "Practice\ProblemSolving\00-Basic\00-Easy\11-AppleAndOrange\AppleAndOrange\AppleAndOrange.csproj", "{4002D573-AEFD-4B11-A5AF-8230E892D380}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,10 @@ Global
 		{5AE168A3-A395-4212-B779-2A1A36A4B8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AE168A3-A395-4212-B779-2A1A36A4B8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AE168A3-A395-4212-B779-2A1A36A4B8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4002D573-AEFD-4B11-A5AF-8230E892D380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4002D573-AEFD-4B11-A5AF-8230E892D380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4002D573-AEFD-4B11-A5AF-8230E892D380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4002D573-AEFD-4B11-A5AF-8230E892D380}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,6 +143,8 @@ Global
 		{F6C19DF5-4A20-4F45-866F-FAF6508B8CC2} = {C2AAAE0F-E860-4E45-9FA9-0E4C8D9EBE79}
 		{6F34D740-A8CA-4B5E-974E-99E6B6BA8E78} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
 		{5AE168A3-A395-4212-B779-2A1A36A4B8D1} = {6F34D740-A8CA-4B5E-974E-99E6B6BA8E78}
+		{B89B1EE7-20BA-48A9-9ED5-9E1F9CA97634} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
+		{4002D573-AEFD-4B11-A5AF-8230E892D380} = {B89B1EE7-20BA-48A9-9ED5-9E1F9CA97634}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91334656-21F3-4A58-97D0-76C83BCB7BE2}
