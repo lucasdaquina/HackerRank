@@ -43,6 +43,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-MiniMaxSum", "07-MiniMax
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSum", "Practice\ProblemSolving\00-Basic\00-Easy\07-MiniMaxSum\MiniMaxSum\MiniMaxSum.csproj", "{E50CD44D-6AC6-4F83-A6C3-A8CD381A1F53}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08-BirthdayCakeCandles", "08-BirthdayCakeCandles", "{0EF16C38-2873-4164-BA9A-0622FB529831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCakeCandles", "Practice\ProblemSolving\00-Basic\00-Easy\08-BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{6D83FFBE-90E5-44CB-AD24-22275598C5FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,10 @@ Global
 		{E50CD44D-6AC6-4F83-A6C3-A8CD381A1F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E50CD44D-6AC6-4F83-A6C3-A8CD381A1F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E50CD44D-6AC6-4F83-A6C3-A8CD381A1F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D83FFBE-90E5-44CB-AD24-22275598C5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D83FFBE-90E5-44CB-AD24-22275598C5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D83FFBE-90E5-44CB-AD24-22275598C5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D83FFBE-90E5-44CB-AD24-22275598C5FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -105,6 +113,8 @@ Global
 		{2B25E859-BC52-4C7D-AE64-CF00FB519DB7} = {707FE840-0D78-46CD-A910-BC285153880D}
 		{09C57CA1-EDCD-44CA-803B-941A040FE65B} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
 		{E50CD44D-6AC6-4F83-A6C3-A8CD381A1F53} = {09C57CA1-EDCD-44CA-803B-941A040FE65B}
+		{0EF16C38-2873-4164-BA9A-0622FB529831} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
+		{6D83FFBE-90E5-44CB-AD24-22275598C5FB} = {0EF16C38-2873-4164-BA9A-0622FB529831}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91334656-21F3-4A58-97D0-76C83BCB7BE2}
