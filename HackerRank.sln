@@ -25,27 +25,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareTheTriplets", "Pract
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-VeryBigSum", "03-VeryBigSum", "{05463B33-DFBA-4BF2-AE4B-E8CECFC6BF53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryBigSum", "Practice\ProblemSolving\00-Basic\00-Easy\03-VeryBigSum\VeryBigSum\VeryBigSum.csproj", "{527322F5-7157-4183-90BD-4538CDFB9A37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeryBigSum", "Practice\ProblemSolving\00-Basic\00-Easy\03-VeryBigSum\VeryBigSum\VeryBigSum.csproj", "{527322F5-7157-4183-90BD-4538CDFB9A37}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-DiagonalDifference", "04-DiagonalDifference", "{5DA21CA1-CB0F-407C-A3D4-79B9E5432BD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "Practice\ProblemSolving\00-Basic\00-Easy\04-DiagonalDifference\DiagonalDifference\DiagonalDifference.csproj", "{25517558-93AB-4178-B5C0-81CC366DCC27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "Practice\ProblemSolving\00-Basic\00-Easy\04-DiagonalDifference\DiagonalDifference\DiagonalDifference.csproj", "{25517558-93AB-4178-B5C0-81CC366DCC27}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-PlusMinus", "05-PlusMinus", "{A594E48A-609E-40C9-9C6F-042B79E6CCF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "Practice\ProblemSolving\00-Basic\00-Easy\05-PlusMinus\PlusMinus\PlusMinus.csproj", "{BB8C21A0-260D-45CF-8696-399CE78C0D3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "Practice\ProblemSolving\00-Basic\00-Easy\05-PlusMinus\PlusMinus\PlusMinus.csproj", "{BB8C21A0-260D-45CF-8696-399CE78C0D3E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-StairCase", "06-StairCase", "{707FE840-0D78-46CD-A910-BC285153880D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairCase", "Practice\ProblemSolving\00-Basic\00-Easy\06-StairCase\StarCase\StairCase.csproj", "{2B25E859-BC52-4C7D-AE64-CF00FB519DB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StairCase", "Practice\ProblemSolving\00-Basic\00-Easy\06-StairCase\StarCase\StairCase.csproj", "{2B25E859-BC52-4C7D-AE64-CF00FB519DB7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-MiniMaxSum", "07-MiniMaxSum", "{09C57CA1-EDCD-44CA-803B-941A040FE65B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSum", "Practice\ProblemSolving\00-Basic\00-Easy\07-MiniMaxSum\MiniMaxSum\MiniMaxSum.csproj", "{E50CD44D-6AC6-4F83-A6C3-A8CD381A1F53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniMaxSum", "Practice\ProblemSolving\00-Basic\00-Easy\07-MiniMaxSum\MiniMaxSum\MiniMaxSum.csproj", "{E50CD44D-6AC6-4F83-A6C3-A8CD381A1F53}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08-BirthdayCakeCandles", "08-BirthdayCakeCandles", "{0EF16C38-2873-4164-BA9A-0622FB529831}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCakeCandles", "Practice\ProblemSolving\00-Basic\00-Easy\08-BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{6D83FFBE-90E5-44CB-AD24-22275598C5FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCakeCandles", "Practice\ProblemSolving\00-Basic\00-Easy\08-BirthdayCakeCandles\BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{6D83FFBE-90E5-44CB-AD24-22275598C5FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09-TimeConversion", "09-TimeConversion", "{C2AAAE0F-E860-4E45-9FA9-0E4C8D9EBE79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "Practice\ProblemSolving\00-Basic\00-Easy\09-TimeConversion\TimeConversion\TimeConversion.csproj", "{F6C19DF5-4A20-4F45-866F-FAF6508B8CC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,6 +93,10 @@ Global
 		{6D83FFBE-90E5-44CB-AD24-22275598C5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D83FFBE-90E5-44CB-AD24-22275598C5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D83FFBE-90E5-44CB-AD24-22275598C5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C19DF5-4A20-4F45-866F-FAF6508B8CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C19DF5-4A20-4F45-866F-FAF6508B8CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C19DF5-4A20-4F45-866F-FAF6508B8CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C19DF5-4A20-4F45-866F-FAF6508B8CC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -115,6 +123,8 @@ Global
 		{E50CD44D-6AC6-4F83-A6C3-A8CD381A1F53} = {09C57CA1-EDCD-44CA-803B-941A040FE65B}
 		{0EF16C38-2873-4164-BA9A-0622FB529831} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
 		{6D83FFBE-90E5-44CB-AD24-22275598C5FB} = {0EF16C38-2873-4164-BA9A-0622FB529831}
+		{C2AAAE0F-E860-4E45-9FA9-0E4C8D9EBE79} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
+		{F6C19DF5-4A20-4F45-866F-FAF6508B8CC2} = {C2AAAE0F-E860-4E45-9FA9-0E4C8D9EBE79}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91334656-21F3-4A58-97D0-76C83BCB7BE2}
