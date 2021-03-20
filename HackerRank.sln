@@ -71,6 +71,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14-TheBirthdayBar", "14-The
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBirthdayBar", "Practice\ProblemSolving\00-Basic\00-Easy\14-TheBirthdayBar\TheBirthdayBar\TheBirthdayBar.csproj", "{28DACBDD-77B5-478B-980B-AB02404F0E98}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15-DivisibleSumPairs", "15-DivisibleSumPairs", "{2A1D0969-2314-49A0-8E7D-481F21BDE09F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "Practice\ProblemSolving\00-Basic\00-Easy\15-DivisibleSumPairs\DivisibleSumPairs\DivisibleSumPairs.csproj", "{DDC535A1-DC23-49E0-A7A0-0B3C20B094E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +141,10 @@ Global
 		{28DACBDD-77B5-478B-980B-AB02404F0E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28DACBDD-77B5-478B-980B-AB02404F0E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28DACBDD-77B5-478B-980B-AB02404F0E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC535A1-DC23-49E0-A7A0-0B3C20B094E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC535A1-DC23-49E0-A7A0-0B3C20B094E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC535A1-DC23-49E0-A7A0-0B3C20B094E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC535A1-DC23-49E0-A7A0-0B3C20B094E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -175,6 +183,8 @@ Global
 		{1C8C239C-193A-4CFA-B7A2-7743CD41536A} = {0C1CC986-0E3E-4A3A-820A-18DC0A7843A5}
 		{82730B69-3FF2-40E0-B7B4-A284CC317809} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
 		{28DACBDD-77B5-478B-980B-AB02404F0E98} = {82730B69-3FF2-40E0-B7B4-A284CC317809}
+		{2A1D0969-2314-49A0-8E7D-481F21BDE09F} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
+		{DDC535A1-DC23-49E0-A7A0-0B3C20B094E0} = {2A1D0969-2314-49A0-8E7D-481F21BDE09F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91334656-21F3-4A58-97D0-76C83BCB7BE2}
