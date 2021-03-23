@@ -87,6 +87,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18-BillDivision", "18-BillD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDivision", "Practice\ProblemSolving\00-Basic\00-Easy\18-BillDivision\BillDivision\BillDivision.csproj", "{C4808ECF-E94A-4DB7-9A51-55496121628E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "19-SalesByMatch", "19-SalesByMatch", "{E9CB3684-47BD-494E-9F87-36D21136F6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesByMatch", "Practice\ProblemSolving\00-Basic\00-Easy\19-SalesByMatch\SalesByMatch\SalesByMatch.csproj", "{888E2EB8-9BB7-4AD9-97F7-05B5F6B34FF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,6 +173,10 @@ Global
 		{C4808ECF-E94A-4DB7-9A51-55496121628E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4808ECF-E94A-4DB7-9A51-55496121628E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4808ECF-E94A-4DB7-9A51-55496121628E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888E2EB8-9BB7-4AD9-97F7-05B5F6B34FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888E2EB8-9BB7-4AD9-97F7-05B5F6B34FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888E2EB8-9BB7-4AD9-97F7-05B5F6B34FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888E2EB8-9BB7-4AD9-97F7-05B5F6B34FF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -215,6 +223,8 @@ Global
 		{B7E39B21-1F1F-4B4B-9150-0B04FF49515D} = {6DC073A5-930D-4CB0-A47A-16466D8E123B}
 		{16E56477-F48C-44ED-9E9A-687978FF95E5} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
 		{C4808ECF-E94A-4DB7-9A51-55496121628E} = {16E56477-F48C-44ED-9E9A-687978FF95E5}
+		{E9CB3684-47BD-494E-9F87-36D21136F6CA} = {755291E1-8AE6-488C-B5F2-1A0FB6DA2FD6}
+		{888E2EB8-9BB7-4AD9-97F7-05B5F6B34FF4} = {E9CB3684-47BD-494E-9F87-36D21136F6CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91334656-21F3-4A58-97D0-76C83BCB7BE2}
